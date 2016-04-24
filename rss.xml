@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Killer Kits]]></title>
         <description><![CDATA[Killer Kits]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/killer-kits/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 03:57:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 04:08:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/killer-kits/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b25b9c8-1382-4c7a-8923-2dfdf5a3a3a4.jpg">]]></description>
-            <link>undefinedc9c45cbc-46fd-493a-b7fd-acac5f75b345/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3392f49d-f035-4305-89ec-32337aecb4ec.jpg">]]></description>
+            <link>https://thegrid.ai/killer-kits/c9c45cbc-46fd-493a-b7fd-acac5f75b345/index.html</link>
             <guid isPermaLink="false">c9c45cbc-46fd-493a-b7fd-acac5f75b345</guid>
-            <pubDate>Sun, 24 Apr 2016 03:57:09 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2016 04:08:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
